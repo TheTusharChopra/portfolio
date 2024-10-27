@@ -1,13 +1,21 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Technology, Computer Science and Engineering
+  uni: Faculty of Technology, University of Delhi
+  year: 2023 &mdash; 2027
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: IBM Top Scorer of SkillsBuild Program
+    - award: Best in Class Project Award (CodeDay, IIT Delhi)
+  summary: Pursuing B.Tech in Computer Science with a focus on cybersecurity, AI/ML, and web development. Recognized for leadership in academic achievements.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: CBSE 12th
+  uni: Darshan Academy, Delhi
+  year: 2023
+  awards:
+    - award: 74.66% in Class 12th Board Examination
+
+- degree: CBSE 10th
+  uni: Darshan Academy, Delhi
+  year: 2021
+  awards:
+    - award: 81.20% in Class 10th Board Examination
+

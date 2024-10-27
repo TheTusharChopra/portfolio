@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: CryptOsint
+  role: Core Member
+  duration: 2024 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Engineered CryptOsint, a solution to trace cryptocurrency transactions linked to drug trafficking as part of SIH 202
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: NPCI Web 3.0 Payment Portal
+  role: Developer
+  duration: 2003 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Formulated a decentralized Web 3.0 payment platform for the National Payments Corporation of India (NPCI) that accepts payments and challans in cryptocurrency.

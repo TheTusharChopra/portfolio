@@ -1,10 +1,15 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: 3rd in Sainya Ranakshetram, Indian Army’s First Hackathon
+  organization: Indian Army, ISAC India, Rashtriya Raksha University
+  year: 2022
+  summary:  Awarded ₹50,000 by Chief of Defence Staff Gen. M.M. Naravane and Rastriya Raksha University along with ISAC India for securing 3rd position in their CTF (Capture The Flag) category
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Hall of Fame at Domino's
+  organization: Domino's
+  year: 2022
+  summary: Acknowledged in Domino's Responsible Disclosure Hall of Fame for discovering SQL Injection, gaining full access to their POS (Point of Sale) system, and responsibly reporting significant security flaws.
+
+- award: IBM Top Scorer of SkillsBuild Program
+  organization: IBM
+  year: 2023
+  summary:  Recognized as a top scorer from my school as part of IBM's global SkillsBuild Program

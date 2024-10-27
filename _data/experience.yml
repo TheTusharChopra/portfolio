@@ -1,19 +1,41 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# AI/ML Intern
+- company: Infosys Springboard
+  position: AI/ML Intern
+  duration: Oct, 2024 &mdash; Present
+  summary: Conducted extensive data pre-processing and applied machine learning algorithms, increasing data readiness by 20%. Worked with deep learning methods and developed final ML models for business applications.
+    <ul class="resume-item-list">
+      <li>Led data visualization efforts and contributed to milestone evaluations</li>
+      <li>Prepared project documentation and shared project outcomes on GitHub</li>
+    </ul>
 
+# Citizen Scientist
+- company: NASA Citizen Science Program
+  position: Citizen Scientist
+  duration: Aug, 2024 &mdash; Present
+  summary: Contributed to 3+ NASA projects, analyzing large datasets to aid in space mission research. Applied cybersecurity and problem-solving skills to support international scientific teams in astronomical data research.
+    <ul class="resume-item-list">
+      <li>Collaborated with international teams for space technology projects</li>
+      <li>Provided analytical insights that supported data-driven decision-making</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Web Developer
+- company: CodSoft
+  position: Web Developer
+  duration: Nov, 2023 &mdash; Dec, 2023
+  summary: Developed a high-performance landing page and a calculator application, enhancing user experience by 20%. Delivered customized web solutions, ensuring 100% client satisfaction.
+    <ul class="resume-item-list">
+      <li>Created a portfolio website optimized for performance and responsiveness</li>
+      <li>Completed projects on time and to specifications</li>
+    </ul>
+
+# Cyber Crime & Digital Forensics Intern
+- company: Cyber Rakshak
+  position: Cyber Crime & Digital Forensics Intern
+  duration: Jun, 2024 &mdash; Aug, 2024
+  summary: Conducted 10+ OSINT investigations and learned advanced forensic acquisition techniques. Performed dark web research, contributing to investigations involving cybercrime and financial fraud.
+    <ul class="resume-item-list">
+      <li>Utilized tools like CSI Linux and Maltego for forensics analysis</li>
+      <li>Gained hands-on experience with VOIP and malware rectification</li>
+    </ul>
